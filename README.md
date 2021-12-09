@@ -184,4 +184,6 @@ es un ejemplo de tienda virtual y los paso para que puedas empezar a utilizarla 
 
    
 
-4. ahora solo abre tu index y crea un usuario para poder simular compras, pedidos y mas.  
+4. modifica todas las cadenas de conexión que encuentres si consideras necesario.
+
+5. ahora solo abre tu índex y crea un usuario para poder simular compras, pedidos y mas.  
